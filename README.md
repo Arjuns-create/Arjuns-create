@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arjuns-create
-- 👀 I’m interested in Competitive Programming,DSA,IOT and WEB TECHNOLOGY
+- 👀 I’m interested in Competitive Programming,DSA, and WEB TECHNOLOGY
 - 🌱 I’m currently learning DSA WITH C++
-- 💞️ I’m looking to collaborate on Techologies like IOT nd WEB3 AND DEVELOPMENT
+- 💞️ I’m looking to collaborate on Techologies like DEVELOPMENT
 - 📫 How to reach me ...
 
 <!---
